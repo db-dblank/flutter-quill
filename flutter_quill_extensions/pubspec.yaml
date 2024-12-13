@@ -7,10 +7,10 @@ issue_tracker: https://github.com/singerdmx/flutter-quill/issues/
 documentation: https://github.com/singerdmx/flutter-quill/tree/master/flutter_quill_extensions/
 
 topics:
- - ui
- - widgets
- - widget
- - rich-text-editor
+  - ui
+  - widgets
+  - widget
+  - rich-text-editor
 
 platforms:
   android:
@@ -21,7 +21,7 @@ platforms:
   windows:
 
 environment:
-  sdk: '>=3.1.6 <4.0.0'
+  sdk: ">=3.1.6 <4.0.0"
   flutter: ">=3.16.0"
 
 dependencies:
@@ -51,7 +51,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^4.0.0
 
 flutter:
   uses-material-design: true
